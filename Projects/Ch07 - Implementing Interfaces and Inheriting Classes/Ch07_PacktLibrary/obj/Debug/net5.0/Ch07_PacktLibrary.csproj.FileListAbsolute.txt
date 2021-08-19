@@ -1,0 +1,12 @@
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\bin\Debug\net5.0\Ch07_PacktLibrary.deps.json
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\bin\Debug\net5.0\Ch07_PacktLibrary.dll
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\bin\Debug\net5.0\ref\Ch07_PacktLibrary.dll
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\bin\Debug\net5.0\Ch07_PacktLibrary.pdb
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\obj\Debug\net5.0\Ch07_PacktLibrary.csproj.AssemblyReference.cache
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\obj\Debug\net5.0\Ch07_PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\obj\Debug\net5.0\Ch07_PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\obj\Debug\net5.0\Ch07_PacktLibrary.AssemblyInfo.cs
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\obj\Debug\net5.0\Ch07_PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\obj\Debug\net5.0\Ch07_PacktLibrary.dll
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\obj\Debug\net5.0\ref\Ch07_PacktLibrary.dll
+C:\Users\vinte\Desktop\ICT365\.NET-Development\Projects\Ch07 - Implementing Interfaces and Inheriting Classes\Ch07_PacktLibrary\obj\Debug\net5.0\Ch07_PacktLibrary.pdb
